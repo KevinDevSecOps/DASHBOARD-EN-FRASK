@@ -1,0 +1,4 @@
+mkdir flask_dashboard
+cd flask_dashboard
+python -m venv venv
+venv\Scripts\activate
